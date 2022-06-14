@@ -1,0 +1,1 @@
+{"currencies": [{"curr_id": 1, "curr_name": "USD", "curr_rate": 35.25, "curr_amount": 20000}, {"curr_id": 2, "curr_name": "UAH", "curr_rate": 35.15, "curr_amount": 10000}]}
